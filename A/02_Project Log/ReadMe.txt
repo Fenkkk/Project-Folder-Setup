@@ -1,0 +1,1 @@
+Serves as the project memory folder. Ensure that the structure of this folder will not overload the agent context window. The agent should know what to access and when to access. 

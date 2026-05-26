@@ -1,0 +1,1 @@
+Artifacts that the agent creates Relevant to the current workflow
